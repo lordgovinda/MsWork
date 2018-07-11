@@ -1,0 +1,5 @@
+C:\Users\rlukka\source\repos\EmployeeDesignPattern\EmployeeDesignPattern\bin\Debug\EmployeeDesignPattern.dll
+C:\Users\rlukka\source\repos\EmployeeDesignPattern\EmployeeDesignPattern\bin\Debug\EmployeeDesignPattern.pdb
+C:\Users\rlukka\source\repos\EmployeeDesignPattern\EmployeeDesignPattern\obj\Debug\EmployeeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\rlukka\source\repos\EmployeeDesignPattern\EmployeeDesignPattern\obj\Debug\EmployeeDesignPattern.dll
+C:\Users\rlukka\source\repos\EmployeeDesignPattern\EmployeeDesignPattern\obj\Debug\EmployeeDesignPattern.pdb
