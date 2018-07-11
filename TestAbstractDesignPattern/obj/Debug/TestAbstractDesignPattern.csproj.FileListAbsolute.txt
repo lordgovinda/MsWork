@@ -1,0 +1,9 @@
+C:\Users\rlukka\source\repos\EmployeeDesignPattern\TestAbstractDesignPattern\bin\Debug\TestAbstractDesignPattern.exe.config
+C:\Users\rlukka\source\repos\EmployeeDesignPattern\TestAbstractDesignPattern\bin\Debug\TestAbstractDesignPattern.exe
+C:\Users\rlukka\source\repos\EmployeeDesignPattern\TestAbstractDesignPattern\bin\Debug\TestAbstractDesignPattern.pdb
+C:\Users\rlukka\source\repos\EmployeeDesignPattern\TestAbstractDesignPattern\bin\Debug\EmployeeDesignPattern.dll
+C:\Users\rlukka\source\repos\EmployeeDesignPattern\TestAbstractDesignPattern\bin\Debug\EmployeeDesignPattern.pdb
+C:\Users\rlukka\source\repos\EmployeeDesignPattern\TestAbstractDesignPattern\obj\Debug\TestAbstractDesignPattern.csprojResolveAssemblyReference.cache
+C:\Users\rlukka\source\repos\EmployeeDesignPattern\TestAbstractDesignPattern\obj\Debug\TestAbstractDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\rlukka\source\repos\EmployeeDesignPattern\TestAbstractDesignPattern\obj\Debug\TestAbstractDesignPattern.exe
+C:\Users\rlukka\source\repos\EmployeeDesignPattern\TestAbstractDesignPattern\obj\Debug\TestAbstractDesignPattern.pdb
